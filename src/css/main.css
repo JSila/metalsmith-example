@@ -1,0 +1,7 @@
+body {
+    font-family: Roboto;
+}
+:not(#post) time {
+    font-size: 65%;
+    text-transform: uppercase;
+}

@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "handlebars": "^4.0.2",
+    "metalsmith": "^2.0.1",
+    "metalsmith-collections": "^0.7.0",
+    "metalsmith-collections-permalinks": "git://github.com/JSila/metalsmith-collections-permalinks.git",
+    "metalsmith-markdown": "^0.2.1",
+    "metalsmith-templates": "^0.7.0",
+    "moment": "^2.10.6"
+  }
+}
